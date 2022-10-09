@@ -45,3 +45,4 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mi-Thun&label=Profile%20views&color=0e75b6&style=flat" alt="Mi-Thun" /> </p>
