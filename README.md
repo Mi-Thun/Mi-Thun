@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm student 🙂
 -->
 <h1 align="center">Hi 👋, I'm Mohsenul Kabir Mithun</h1>
-<h3 align="center">A passionate Python developer</h3>
+<h3 align="center">A passionate ______________</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - ⚡ Fun fact **I'm student 😍**
 
