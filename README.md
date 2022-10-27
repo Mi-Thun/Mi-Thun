@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohsenul Kabir Mithun</h1>
 <h3 align="center">A passionate ______________</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Digital Image Processing**
 
 - ⚡ Fun fact **I'm student 😍**
 
