@@ -1,28 +1,8 @@
-<!--
-### Hi there 👋
-
-<!--
-**Mi-Thun/Mi-Thun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: There is no way to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm student 🙂
--->
 <h1 align="center">Hi 👋, I'm Mohsenul Kabir Mithun</h1>
 <h3 align="center">A passionate ______________</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Big Data Analytics, Software development**
-
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Big Data Analytics, Software development 😁😅**
 - ⚡ Fun fact **I'm student 😍**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,12 +42,8 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
   
-  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mi-Thun&theme=dracula&langs_count=6&layout=compact&hide=css">
   
- <h3 align="left">Support:</h3>
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/MohsinlKbrMitun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MohsinlKbrMitun" /></a></p><br><br>
-
-
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=Mi-Thun&label=Profile%20views&color=0e75b6&style=flat" alt="Mi-Thun" /> </p>
